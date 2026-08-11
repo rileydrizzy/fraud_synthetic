@@ -20,5 +20,3 @@ fi
 echo
 echo "Done. Activate with:"
 echo "    source .venv/bin/activate"
-echo "Then:"
-echo "    jupyter notebook synthetic_fraud_validation.ipynb"
